@@ -1,3 +1,4 @@
+config.make
 lib/
 CppUnit/.dep/
 Foundation/.dep/
